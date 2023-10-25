@@ -1,2 +1,2 @@
-# org4g-project
-The project that will be boosted by Org4g
+# project-for-good
+The project that will be boosted for good by Org4g
